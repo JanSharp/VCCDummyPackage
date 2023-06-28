@@ -9,6 +9,7 @@
   },
   "url": "https://github.com/JanSharp/VCCDummyPackage/releases/download/v0.1.0/com.jansharp.dummy.zip",
   "changelogUrl": "https://github.com/JanSharp/VCCDummyPackage/blob/v0.1.0/CHANGELOG.md",
+  "license": "MIT",
   "author": {
     "name": "JanSharp",
     "email": "steinmeister36@gmail.com",
